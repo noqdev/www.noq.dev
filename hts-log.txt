@@ -1,0 +1,45 @@
+HTTrack3.49-2 launched on Thu, 07 Sep 2023 19:50:14 at https://www.noq.dev/ +*.webflow.com/*
+(httrack https://www.noq.dev/ -O ~/Documents/website2 -%e +*.webflow.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:50:16	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/robots.txt (from primary/primary)
+19:51:42	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/privacy-policy (from https://www.noq.dev/)
+19:51:42	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/terms-and-conditions (from https://www.noq.dev/)
+19:51:44	Error: 	"Forbidden" (403) at link https://uploads-ssl.webflow.com/6303acc57bacc74b0de7993f/6303acc57bacc79664e79976_Vector 32.svg (from https://www.noq.dev/career)
+19:51:48	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/iambic-and-terraform-collaborators-not-competitors (from https://www.noq.dev/blog)
+19:51:48	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/the-hidden-danger-of-github-oidc-and-how-to-protect-your-aws-roles (from https://www.noq.dev/blog)
+19:51:48	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/iambic-featured-on-beabetterdevs-youtube-channel (from https://www.noq.dev/blog)
+19:51:48	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/scps-protecting-your-aws-environment-and-your-job (from https://www.noq.dev/blog)
+19:52:09	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/aws-permission-bouncers-letting-loose-in-dev-keeping-it-tight-in-prod (from https://www.noq.dev/blog)
+19:52:21	Error: 	"Forbidden" (403) at link https://uploads-ssl.webflow.com/6303acc57bacc74b0de7993f/6303acc57bacc768b1e7994a_Arrow 1 (5).svg (from https://www.noq.dev/blog)
+19:52:21	Warning: 	Retry after error 502 () at link https://www.noq.dev/privacy-policy (from https://www.noq.dev/)
+19:52:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/terms-and-conditions (from https://www.noq.dev/)
+19:52:21	Error: 	"Forbidden" (403) at link https://uploads-ssl.webflow.com/6303acc57bacc74b0de7993f/6303acc57bacc73fe2e79986_Arrow 1.svg (from https://www.noq.dev/blog/cleaning-up-dead-bodies-in-aws-iam)
+19:52:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/iambic-and-terraform-collaborators-not-competitors (from https://www.noq.dev/blog)
+19:52:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/the-hidden-danger-of-github-oidc-and-how-to-protect-your-aws-roles (from https://www.noq.dev/blog)
+19:52:21	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/iambic-featured-on-beabetterdevs-youtube-channel (from https://www.noq.dev/blog)
+19:52:42	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/scps-protecting-your-aws-environment-and-your-job (from https://www.noq.dev/blog)
+19:52:42	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/aws-permission-bouncers-letting-loose-in-dev-keeping-it-tight-in-prod (from https://www.noq.dev/blog)
+19:52:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/happy-new-year-from-noq (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:52:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/paving-a-path-to-least-privilege-with-iamops (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:52:43	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog?e3d899bc_page=1 (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:53:04	Error: 	"" (502) after 2 retries at link https://www.noq.dev/privacy-policy (from https://www.noq.dev/)
+19:53:04	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/terms-and-conditions (from https://www.noq.dev/)
+19:53:04	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog/iambic-and-terraform-collaborators-not-competitors (from https://www.noq.dev/blog)
+19:53:04	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog/the-hidden-danger-of-github-oidc-and-how-to-protect-your-aws-roles (from https://www.noq.dev/blog)
+19:53:04	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog/iambic-featured-on-beabetterdevs-youtube-channel (from https://www.noq.dev/blog)
+19:53:04	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog/scps-protecting-your-aws-environment-and-your-job (from https://www.noq.dev/blog)
+19:53:04	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog/aws-permission-bouncers-letting-loose-in-dev-keeping-it-tight-in-prod (from https://www.noq.dev/blog)
+19:53:04	Warning: 	Retry after error 502 () at link https://www.noq.dev/blog/happy-new-year-from-noq (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:53:04	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog/paving-a-path-to-least-privilege-with-iamops (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:53:04	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.noq.dev/blog?e3d899bc_page=1 (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:53:04	Error: 	"" (502) after 2 retries at link https://www.noq.dev/blog/happy-new-year-from-noq (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:53:05	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog/paving-a-path-to-least-privilege-with-iamops (from https://www.noq.dev/blog?e3d899bc_page=2)
+19:53:05	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.noq.dev/blog?e3d899bc_page=1 (from https://www.noq.dev/blog?e3d899bc_page=2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 51 seconds : 128 links scanned, 93 files written (7991109 bytes overall) [6933960 bytes received at 40549 bytes/sec], 1818155 bytes transferred using HTTP compression in 49 files, ratio 37%, 5.1 requests per connection
+(14 errors, 20 warnings, 0 messages)
